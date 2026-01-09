@@ -1,8 +1,6 @@
 # Analysing-Loan-Defaults-through-ML-Alogorithms
 Machine learning–based credit risk analysis project for predicting loan defaults using Logistic Regression, Random Forest, and XGBoost after balancing the dataset with SMOTE.
 
-# Credit Risk Analysis using Machine Learning
-
 ## 📌 Project Overview
 This project focuses on **credit risk analysis** by predicting loan default behavior using machine learning techniques. The objective is to evaluate and compare multiple classification models on imbalanced financial data and understand their effectiveness in identifying risky borrowers.
 
